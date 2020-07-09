@@ -1,5 +1,5 @@
 # Dump Tweets to Dataframe and Plot Twitter Handle Activity
-A Pyton code to plot count of tweets posted by selected handle in each hour. You can also dump the dataframe in csv format.
+A Python code to plot count of tweets posted by selected handle in each hour. You can also dump the dataframe in csv format.
 ## Install Requirements 
 - tweepy
 - pandas
